@@ -1,7 +1,0 @@
-{
-  "name": "Copy of AutoLedger AI",
-  "description": "Smart expense tracker that uses Gemini to automatically parse receipts, screenshots, and payment notifications into categorized transactions.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
